@@ -1,1 +1,1 @@
-/data/nfs/ *(rw,no_root_squash,no_all_squash,sync)
+/nfs/ *(rw,no_root_squash,no_all_squash,sync)
